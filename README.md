@@ -4,7 +4,9 @@ A way to interperate time in a way that is not rigid, unlike set amount of times
 
 ## What is FIT
 
-With casual relationships, you typically ask them when they can do something, and they typically reply with a set in stone answer. FIT aims to remove these problems by having all time interpretation be fuzzy and not set.
+Fit is a standardized system of relative fuzzy time measurements that is designed to fit into everyday conversation. 
+
+Within casual relationships, it's common to ask for availability ("When are you available to do *x*"), and it's just as common to get a vague answer (*"In a bit...", "Soon-ish?"*). FIT aims to clear up this confusion, by allowing for a concrete measurement of these casual measurements
 
 ## The Table of FIT
 
