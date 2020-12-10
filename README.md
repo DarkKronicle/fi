@@ -12,6 +12,7 @@ Within casual relationships, it's common to ask for availability ("When are you 
 
 * `x` refers to the current measurement/modifier.
 * All of these times are uncertain to a degree of +-5%.
+* If refering to longer period of times (days), you can explicitly state 'in a \[time] amount of \[measurement]', or just get it from context. Example: `I will get to that in a soon amount of days`.
 
 ### Measurements
 
@@ -22,7 +23,7 @@ Different measurements of time
 | Long        | L  | 4 Short        | \* |
 | Short       | S  | 0.25 Long      | \* |
 | Bit         | B  | 0.66 Long      | \* |
-| Late       | l  | <= 1.5 Long    | \* |
+| Late       | l  | 1.5 Long    | \* |
 | Eventually  | E  | 0 < x < ∞ time | !  |
 | Right Now   | rn | 0              | !  |
 
@@ -34,6 +35,7 @@ How to modify measurements.
 |-------------|--------------|----------|
 | No(t)       | none         | !  |
 | er          | 0.5 < x < 1  | \* |
+| en          | 1 < x < 1.5  | \* |
 | Ish         | 0.5 < x <= 1.5 | \* |
 | Maybe       | 1 or ∞       | =/ |
 | A while     | 2 > x > .9        | \* |
@@ -58,6 +60,7 @@ Ease of saying and typing. These are made up of measurements and modifiers.
 |----------|----------|
 | Soon     | A while short |
 | Later    | Late ish  |
+| Some     | Maybe ish |
 
 ### Understanding Variables
 
@@ -78,3 +81,7 @@ Now you know what everything is, here's how you can use this.
 3. Soon
 
     `Within the next 10 to 30 minutes.`
+
+## Other
+
+Feel free to share this with whoever, whenever, wherever! F.I.T. is meant to be used in any context. You can create an issue to propose an update, or a pull request to change whatever.
