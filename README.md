@@ -22,6 +22,8 @@ Different measurements of time
 |-------------|-----------|--------------|----------|
 | Long        | L  | 4 Short        | \* |
 | Short       | S  | 0.25 Long      | \* |
+| Min         | m  | 0 < x < 3/60 Long | \* |
+| Sec         | s  | 0 < x < 1/60 Long | \* |
 | Bit         | B  | 0.66 Long      | \* |
 | Late       | l  | 1.5 Long    | \* |
 | Eventually  | E  | 0 < x < ∞ time | !  |
@@ -38,7 +40,9 @@ How to modify measurements.
 | en          | 1 < x < 1.5  | \* |
 | Ish         | 0.5 < x <= 1.5 | \* |
 | Maybe       | 1 or ∞       | =/ |
-| A while     | 2 > x > .9        | \* |
+| A while     | 2 > x > .9   | \* |
+| +           | 1 < x < 2    | \* |
+| -           | 0.1 < x < 1    | \* |
 
 ### Operators
 
@@ -61,6 +65,8 @@ Ease of saying and typing. These are made up of measurements and modifiers.
 | Soon     | A while short |
 | Later    | Late ish  |
 | Some     | Maybe ish |
+| Little `x` | `x`er |
+| Few | Sooner |
 
 ### Understanding Variables
 
