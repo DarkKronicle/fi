@@ -1,4 +1,4 @@
-# Fuzzy Interpetation of Likelyhood \(F.I.L.\)
+# Fuzzy Interpretation of Likelihood \(F.I.L.\)
 
 A way to clarify ambigious words that deal with probability.
 
@@ -13,6 +13,9 @@ A way to clarify ambigious words that deal with probability.
 | Yes | Y | 1 | \* |
 | No | N | 0 | \* |
 | Maybe | M | 0.5 | \* |
+| Potentially | Po | 0.15 | \* |
+| Definitely | D | 0.99 | \* |
+| Probably | Pr | 0.85 | \* |
 
 ### Operators
 
