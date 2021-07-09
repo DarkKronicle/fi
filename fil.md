@@ -6,7 +6,7 @@ A way to clarify ambigious words that deal with probability.
 
 * `x` refers to the current measurement/modifier.
 * All of these times are uncertain to a degree of +-5%.
-* If relationship is a number that is the percentage / 100 of the likelyhood.
+* If relationship is a number that is the percentage / 100 of the likelihood.
 
 | Measurement | Shorthand | Relationship | Operator |
 | :--- | :--- | :--- | :--- |
@@ -16,6 +16,14 @@ A way to clarify ambigious words that deal with probability.
 | Potentially | Po | 0.15 | \* |
 | Definitely | D | 0.99 | \* |
 | Probably | Pr | 0.85 | \* |
+| Perhaps | Pe | 0.3 | \* |
+
+### Modifiers
+
+| Modifier | Relationship | Operator |
+| :--- | :--- | :--- |
+| Kinda | 0.15 | - |
+| Sorta | 0.5 | - |
 
 ### Operators
 
