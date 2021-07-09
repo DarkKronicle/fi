@@ -1,6 +1,6 @@
 # Fuzzy Interpretation of Likelihood \(F.I.L.\)
 
-A way to clarify ambigious words that deal with probability.
+A way to clarify ambiguous words that deal with probability.
 
 ## The Table of FIL
 
