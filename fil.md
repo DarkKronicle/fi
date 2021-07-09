@@ -1,4 +1,4 @@
-# Fuzzy Interpretation of Likelihood \(F.I.L.\)
+# Fuzzy Interpetation of Likelyhood \(F.I.L.\)
 
 A way to clarify ambigious words that deal with probability.
 
